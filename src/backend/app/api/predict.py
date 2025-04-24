@@ -1,3 +1,7 @@
+# This code defines a FastAPI endpoint (/predict)
+# Function: accept an uploaded image file, temporarily save it, and pass it to a classifier function (classifier.py) to get a prediction. 
+# After classification, it returns the result as a JSON response and deletes the temporary file to clean up.
+
 import tempfile
 from fastapi import APIRouter, UploadFile, File
 from app.model.classifier import classify_image

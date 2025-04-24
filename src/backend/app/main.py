@@ -1,3 +1,5 @@
+#Note if using VScode as an IDE some imports may show up as having problems after installing requirements; 
+# but its just VScode not recognizing them; the code will run as its supposed to
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api import predict  # Import your predict router
