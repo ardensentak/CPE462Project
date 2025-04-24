@@ -3,7 +3,7 @@ from keras._tf_keras.keras.preprocessing import image
 import numpy as np
 import os
 
-model = tf.keras.models.load_model("models/recyclableClassifierFinalModel.keras.keras")
+model = tf.keras.models.load_model("models/recyclableClassifierFinalModel.keras")
 
 def classify_image(img_path):
     """Loads an image and predicts if it's recyclable or not."""
