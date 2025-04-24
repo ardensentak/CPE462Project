@@ -1,3 +1,6 @@
+// creates + styles header for website
+//this header is designed to be green, centered, and say "Recycle Sort"
+
 import React from 'react'
 import { FaRecycle } from 'react-icons/fa'
 import * as Toolbar from '@radix-ui/react-toolbar'
