@@ -88,7 +88,7 @@ val_gen = val_datagen.flow_from_directory(
     class_mode='binary'
 )
 
-#Function to return image counts
+#Function to return valid image counts
 def count_images_per_class(directory):
     class_counts = defaultdict(int)
     for class_name in os.listdir(directory):
