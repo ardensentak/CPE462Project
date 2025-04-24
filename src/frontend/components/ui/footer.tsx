@@ -1,3 +1,5 @@
+//creates custom website footer
+//this footer is designed to mention the current year and my name on my website
 import React from 'react';
 
 const Footer = () => {
