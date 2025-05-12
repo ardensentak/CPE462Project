@@ -2,7 +2,8 @@
 # but its just VScode not recognizing them; the code will run as its supposed to
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api import predict  # Import your predict router
+
+from app.api import predict  # Importing my predict router
 
 app = FastAPI(
     title="Image Classification API",
