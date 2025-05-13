@@ -8,7 +8,7 @@ const inter = Inter({subsets: ["latin"]});
 
 export const metadata: Metadata = {
   title: "Image Classifier",
-  description: "Receyable or Not?",
+  description: "Recyclable or Not?",
 };
 
 
