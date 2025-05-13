@@ -1,5 +1,7 @@
 // creates + styles header for website
-//this header is designed to be green, centered, and say "Recycle Sort"
+//this header is designed to be a white box with a small green border line on the bottom
+//the leftside of the header has a green recycling icon
+//the center of the header says "Recycle Sort" in green text
 
 import React from 'react'
 import { FaRecycle } from 'react-icons/fa'
