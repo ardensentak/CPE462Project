@@ -1,4 +1,6 @@
-Note, this is just a README that Next.js projects automatically generate. I did not write this and it can be ignored. 
+## Note, this is just a README that Next.js projects automatically generate. I did not write this and it can be ignored. 
+
+</br>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
