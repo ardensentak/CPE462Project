@@ -49,4 +49,4 @@ When done with the website, you can close the tab. Then click Ctrl-C in both the
 
 
 ## Project Report
-Click the following link to view a more detailed report of my project: [Project Report]()
+Click the following link to view a more detailed report of my project: [Project Report](https://github.com/ardensentak/CPE462Project/blob/main/projectReport/CPE462ProjectReport.pdf)
