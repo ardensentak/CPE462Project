@@ -48,3 +48,5 @@ While the backend is running, open another terminal to run the frontend. Follow 
 When done with the website, you can close the tab. Then click Ctrl-C in both the frontend and backend terminals to stop them from running. 
 
 
+## Project Report
+Click the following link to view a more detailed report of my project: [Project Report]()
